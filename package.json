@@ -1,0 +1,24 @@
+{
+
+  "name": "novelBook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanyaning/novelBook.git"
+  },
+  "keywords": [],
+  "author": "hanyaning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanyaning/novelBook/issues"
+  },
+  "homepage": "https://github.com/hanyaning/novelBook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
